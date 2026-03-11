@@ -47,7 +47,7 @@ The Power BI dashboard includes:
 
 ## Files in this Repository
 - `SQL/create_views.sql` → SQL views used to transform the raw dataset
-- `PowerBI/brazilian_ecommerce_dashboard.pbix` → Power BI dashboard file
+- `PowerBI/ecommerce_analysis.pbix` → Power BI dashboard file
 - `images/dashboard_overview.png` → dashboard screenshot
 
 ## Dashboard Preview
